@@ -11,7 +11,7 @@ on:
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
   BUILD_TYPE: Debug
-  PROJECT_FOLDER: EmptyTest
+  PROJECT_FOLDER: GPIOEXTI0PT2
 
 jobs:
   build:
